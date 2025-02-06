@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:cadetblue;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 3rem;
+    color: black;
+    border: 2px solid;
+    border-color: black;
+    margin: 3%;
+    text-align: center;
+    background-color: yellow;
+}
+
+.instrucciones {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin: 2%;
+    text-align: center;
+}
+
+.descripcion, .precio {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 3%;
+}
+
+.descripcion {
+    text-align: justify;
+}
+
+.precio {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.imagenes, .detalles {
+    text-align: center;
+}
+
+.img-index, .img-detalles {
+    margin: 2%;
+    width: 20rem;
+    
+}
+
+.img-index {
+    border: 2px solid;
+    border-color:indigo;
+}
+
+.volver {
+    display: block;
+    margin: 3%;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+
+}

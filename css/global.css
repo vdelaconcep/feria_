@@ -15,7 +15,6 @@ h1 {
     border-color: black;
     border-radius: 7px;
     margin: 3%;
-    padding: 3%;
     text-align: center;
     background-color: yellow;
 }
@@ -39,6 +38,11 @@ h1 {
 
 .descripcion {
     text-align: justify;
+}
+
+.descripcion b {
+    color: white;
+    background-color: brown;
 }
 
 .precio {

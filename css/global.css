@@ -70,7 +70,8 @@ h1 {
     text-align: center;
 }
 
-.boton_volver {
-    margin: 3%;
+.boton_volver, .boton_arriba {
+    display: inline-block;
     padding: 1%;
+    margin: 3%;
 }

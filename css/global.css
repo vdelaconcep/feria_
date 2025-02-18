@@ -67,10 +67,9 @@ h1 {
 }
 
 .volver {
-    display: block;
-    margin: 3%;
-    text-align: right;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 900;
+    text-align: center;
+}
 
+.boton_volver {
+    margin: 3%;
 }

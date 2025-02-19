@@ -48,8 +48,8 @@ h1 {
 }
 
 .descripcion b {
-    color: white;
-    background-color: brown;
+    color:white;
+    background-color:rgb(209, 6, 209);
 }
 
 .precio {

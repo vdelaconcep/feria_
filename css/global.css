@@ -4,7 +4,8 @@
 }
 
 body {
-    background-image: url("../assets/img/polkadotgreen.jpg");
+    background-image: url("../assets/img/polkadotlile.jpg");
+    /* background-image: url("../assets/img/polkadotgreen.jpg"); */
     background-repeat: repeat;
     /* background: linear-gradient(to bottom right,cadetblue,deepskyblue); */
 }
